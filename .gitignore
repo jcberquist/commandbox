@@ -47,3 +47,5 @@ src/cfml/license.txt
 /temp
 /build/dist
 /tests/compile-dsl
+/bx-cli
+.env
